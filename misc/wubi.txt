@@ -17801,7 +17801,7 @@ gtud 亚特兰大
 gtui 再生资源
 gtuj 不简单 一般将来时
 gtuq 一等奖 一知半解
-gtut 再生产 不知道
+gtut 不知道 再生产
 gtv 鳿
 gtvg 不知好歹
 gtvo 鳿
@@ -28294,7 +28294,7 @@ kwkg 咿唔
 kwkj 吟唱
 kwkr 哗啦
 kwkt 吟哦
-kwkw 吩咐 哈哈 嗡嗡 唯唯
+kwkw 哈哈 吩咐 嗡嗡 唯唯
 kwky 吟咏
 kwld 只因 嗰
 kwlq 哈罗
@@ -43577,6 +43577,7 @@ rib 邾
 ribh 邾
 ribm 挑出
 rics 抽水马桶
+riddd 朱磊
 ridg 泉石
 ridi 牛津大学 朱砂
 ridx 抄袭
